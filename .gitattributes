@@ -1,3 +1,10 @@
 Antarctica.mp4 filter=lfs diff=lfs merge=lfs -text
 green_sea_turtle.mp4 filter=lfs diff=lfs merge=lfs -text
 Costa_Rica.mp4 filter=lfs diff=lfs merge=lfs -text
+dark.mp4 filter=lfs diff=lfs merge=lfs -text
+pit_Bull.mp4 filter=lfs diff=lfs merge=lfs -text
+Red_Panda.mp4 filter=lfs diff=lfs merge=lfs -text
+sea_otter.mp4 filter=lfs diff=lfs merge=lfs -text
+Tenrec_ecaudatus.mp4 filter=lfs diff=lfs merge=lfs -text
+wildcat.mp4 filter=lfs diff=lfs merge=lfs -text
+salamander_black_Bear_Euploea.mp4 filter=lfs diff=lfs merge=lfs -text
